@@ -1,0 +1,71 @@
+{
+  "generator": "built-in ImageGen",
+  "assets": [
+    {
+      "key": "court",
+      "prompt": "Bright charming hand-painted 2D cartoon courtroom background for a classroom browser game, wide 16:9. Warm honey wood, teal wall panels, coral and mustard accents, thick clean navy outlines, soft pastel sunshine. Front-facing symmetrical room viewed from audience. Friendly judge seated upper center-left behind raised wooden bench, large EMPTY cream projector board upper right beside judge. Two separate low counsel desks in lower left and lower right with friendly adult lawyers in suits, each desk has a large blank front panel. Spacious center aisle. Respectful educational atmosphere. No words, no letters, no logos, no violence. Flat editorial cartoon, polished game illustration.",
+      "file": "court.webp"
+    },
+    {
+      "key": "dna",
+      "prompt": "A laboratory test tube with a single small dark red blood sample and blue DNA double helix on a cream evidence board.",
+      "file": "dna.webp"
+    },
+    {
+      "key": "glove",
+      "prompt": "Two dark brown leather gloves side by side on a cream evidence board, small separate tags, not worn.",
+      "file": "glove.webp"
+    },
+    {
+      "key": "cut",
+      "prompt": "A diagram of an adult left hand with one small discreet red cut on the middle finger, medical educational line drawing, no gore.",
+      "file": "cut.webp",
+      "revision": "Anatomical LEFT HAND palm facing viewer, thumb on RIGHT, five digits. Tiny short thin red line on middle finger; no gore. Preserve cartoon style and cream background."
+    },
+    {
+      "key": "shoe",
+      "prompt": "A dark brown formal loafer next to a schematic outsole footprint on a cream board.",
+      "file": "shoe.webp"
+    },
+    {
+      "key": "time",
+      "prompt": "An analog clock beside a simple blank three-step timeline and small airplane silhouette.",
+      "file": "time.webp"
+    },
+    {
+      "key": "park",
+      "prompt": "A friendly adult limousine driver standing beside a dark limousine at a house gate at night, cartoon educational reconstruction, no text.",
+      "file": "park.webp"
+    },
+    {
+      "key": "kato",
+      "prompt": "An adult man in a guesthouse listening to a sound outside, three subtle vibration marks on a wall, no text.",
+      "file": "kato.webp"
+    },
+    {
+      "key": "fung",
+      "prompt": "A forensic technician with gloves sealing a labeled but textless evidence pouch beside a swab and sample vial, no words.",
+      "file": "fung.webp"
+    },
+    {
+      "key": "fuhrman",
+      "prompt": "A detective notebook, cassette tape and a dark leather glove in an evidence bag, no words.",
+      "file": "fuhrman.webp"
+    },
+    {
+      "key": "history",
+      "prompt": "A telephone handset, blank incident report and calendar on a cream desk, respectful historical evidence illustration, no violence.",
+      "file": "history.webp"
+    },
+    {
+      "key": "missing",
+      "prompt": "An empty cream evidence tray with dotted outline of a knife and a question mark, clearly representing an object that was not recovered, no actual weapon present.",
+      "file": "missing.webp"
+    },
+    {
+      "key": "chain",
+      "prompt": "Three sealed evidence pouches linked by teal arrows: collection, laboratory, court. No words.",
+      "file": "chain.webp"
+    }
+  ]
+}
